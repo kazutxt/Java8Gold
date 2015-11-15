@@ -1,4 +1,5 @@
 git add で追加するファイルを指定する(編集した時も)
+gitでは空のフォルダだけのコミットはできない
 git status で状態を確認する
 git commit -m "message" でコミットする
 git push origin master でコミットする
@@ -9,3 +10,4 @@ sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
 sudo apt-get install oracle-java8-installer 
 sudo update-java-alternatives -s java-8-oracle
+
