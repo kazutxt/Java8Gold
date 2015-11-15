@@ -1,0 +1,5 @@
+git add で追加するファイルを指定する
+git status で状態を確認する
+git commit -m "message" でコミットする
+git push origin master でコミットする
+
